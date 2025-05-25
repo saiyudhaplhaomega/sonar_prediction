@@ -39,6 +39,6 @@ Each feature is a floating point value corresponding to sonar returns.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/rock-vs-mine-prediction.git
-cd rock-vs-mine-prediction
+git clone https://github.com/saiyudhaplhaomega/sonar_prediction.git
+cd sonar_prediction
 
