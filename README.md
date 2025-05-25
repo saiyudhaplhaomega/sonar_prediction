@@ -1,6 +1,6 @@
 # 🔍 Rock vs Mine Prediction using Machine Learning
 
-This project predicts whether an object is a **rock** or a **mine** based on sonar signal returns, using a **Logistic Regression** classifier. It uses the [Sonar dataset] from the UCI Machine Learning Repository.
+This project predicts whether an object is a **rock** or a **mine** based on sonar signal returns, using a **Logistic Regression** classifier. It uses the [Sonar dataset] .
 
 ---
 
